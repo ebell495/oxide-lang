@@ -1,7 +1,8 @@
 project: oxide-lang
 target: oxide
 
-tests: ./examples
+tests: 
+    - file://./examples
 
 cmds:
     - cmd: /oxide @@
