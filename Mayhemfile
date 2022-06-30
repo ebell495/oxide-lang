@@ -1,7 +1,7 @@
 project: oxide-lang
 target: oxide
 
-tests: 
+testsuite: 
     - file://./examples
 
 cmds:
